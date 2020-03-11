@@ -1,5 +1,5 @@
 # Time_Elapsed_for_TI89
-Program that calculates time elapsed between two times written in C and compiled for the ti89
+Program that calculates time elapsed between two times written in C and compiled for the TI89
 
 This program was originally written for the purposes of finding the duration of tutoring sessions with students based of the time
 of day in which the session begins and ends but can be used in any scenario in which such calculations are neccessary. It was
